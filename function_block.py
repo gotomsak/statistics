@@ -187,7 +187,7 @@ print(n*p)
 print(dis)
 print(n*p*(1-p))
 """
-"""
+
 #toi4(1,2)
 nor=np.random.normal(55,12,6000)
 x=np.arange(0,100,5)
@@ -195,7 +195,6 @@ plt.hist(nor,bins=20,range=(0,100),normed=True)
 plt.plot(x,norm.pdf(x,55,12),lw=3,color="r")
 plt.show()
 """
-
 #toi(5)
 nor=np.random.normal(160,50,10000)
 cnt1=0
@@ -221,7 +220,7 @@ print(kai2)
 print(kai3)
 print(kai4*10000)
 
-
+"""
 
 
 
